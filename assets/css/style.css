@@ -16,19 +16,20 @@
     background-image: url(../img/jumbotron-bg.jpg);
     background-size: cover;
     height: 640px;
+    text-align: center;
 }
 
 .jumbotron .display-4
 {
     margin-top: 150px;
     color: white;
-    text-align: center;
-    font-weight: 200;
+    font-weight: 200 !important;
+    font-size: 62px;
 }
 
 .jumbotron .display-4 span
 {
-    font-weight: 500 !important;
+    font-weight: 500;
 }
 
 /* DESKTOP VERSION */

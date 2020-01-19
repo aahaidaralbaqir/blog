@@ -24,7 +24,8 @@
     margin-top: 150px;
     color: white;
     font-weight: 200 !important;
-    font-size: 62px;
+    font-size: 40px;
+    margin-bottom: 30px;
 }
 
 .jumbotron .display-4 span
@@ -57,5 +58,9 @@
     .jumbotron
     {
         margin-top: -75px;
+    }
+    .jumbotron .display-4
+    {
+        font-size: 62px;
     }
 }

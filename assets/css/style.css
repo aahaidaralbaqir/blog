@@ -10,12 +10,14 @@
     text-transform: uppercase;
     border-radius: 40px;
 }
+
 .jumbotron 
 {
     background-image: url(../img/jumbotron-bg.jpg);
     background-size: cover;
     height: 640px;
 }
+
 .jumbotron .display-4
 {
     margin-top: 150px;
@@ -23,6 +25,7 @@
     text-align: center;
     font-weight: 200;
 }
+
 .jumbotron .display-4 span
 {
     font-weight: 500 !important;

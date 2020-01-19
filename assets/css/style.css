@@ -163,6 +163,7 @@
 
 .footer p {
     font-size: 18px;
+    color : #ACACAC;
 }
 /* DESKTOP VERSION */
 @media(min-width: 992px) {
